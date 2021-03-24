@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body{
+  font-family: Arial;
+}
+
+.red{color: red}
+
+textarea{
+  border: 10px solid #19b4fc;
+  border-radius:30px;
+  background-color:#c7c7c7;
+  padding: 10px;
+  outline: 0
+}
+
+span{
+  position: absolute;
+  padding:60px 40px  ;
+  border:5px solid #c7c7c7;
+  border-radius:30px;
+  margin-left:10px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Height */

@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body{
+  font-family: Arial;
+}
+
+.container{
+  width: 1300px;
+  margin: 20px auto
+}
+
+.container ul{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-bottom: 20px
+}
+
+.container ul li{
+  display: inline-block;
+  list-style: none;
+  width: 20px;
+  height: 20px;
+  cursor: pointer
+}
+
+.container ul li:first-of-type{
+  background-color: red
+}
+
+.container ul li:nth-of-type(2){
+  background-color: green
+}
+
+.container ul li:nth-of-type(3){
+  background-color: purple
+}
+
+.container ul li:nth-of-type(4){
+  background-color: black
+}
+
+.container ul li:nth-of-type(5){
+  background-color: orange
+}
+
+.container ul li:last-of-type{
+  background-color: blue
+}
+
+.container h3{
+  color: red;
+  margin-bottom: 20px
+}
+
+.container div{
+  background-color: red;
+  color: #fff;
+  padding: 20px
+}
+
+.red .container h3{color: red}
+.red .container div{background-color: red}
+
+.green .container h3{color: green}
+.green .container div{background-color: green}
+
+.purple .container h3{color: purple}
+.purple .container div{background-color: purple}
+
+.black .container h3{color: black}
+.black .container div{background-color: black}
+
+.orange .container h3{color: orange}
+.orange .container div{background-color: orange}
+
+.blue .container h3{color: blue}
+.blue .container div{background-color: blue}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Height */

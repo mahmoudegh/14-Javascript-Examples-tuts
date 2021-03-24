@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body{
+  font-family: Arial;
+}
+
+.class-one h2 {color: green}
+.class-one p {color: green}
+
+.class-two h2 {color: red}
+.class-two p {color: red}
+
+.class-three h2 {color: blue}
+.class-three p {color: blue}
+
+.class-four h2 {color: gray}
+.class-four p {color: gray}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Height */
